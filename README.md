@@ -1,5 +1,6 @@
 ## Hello! I'm Davin Aji Wibowo 👋
 
+![Davin Aji Wibowo](img/github-header-banner.png)
 <!--
 **Davinnn99/Davinnn99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
