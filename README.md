@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello! I'm Davin Aji Wibowo 👋
 
 <!--
 **Davinnn99/Davinnn99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently studied on **BINUS University**
+- 🌱 I used to working on **PT.ArtiVisi Intermedia**
+- 👯 I’m looking to collaborate on IT Support
+- 📫 How to reach me: davinaji0209@gmail.com
